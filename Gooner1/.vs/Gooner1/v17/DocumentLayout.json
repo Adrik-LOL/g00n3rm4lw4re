@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Gooner1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\gooner1\\windowmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|solutionrelative:gooner1\\windowmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|c:\\users\\adria\\desktop\\g00nerm4lw4re\\gooner1\\gooner1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|solutionrelative:gooner1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\gooner1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|solutionrelative:gooner1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\gooner1\\my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|solutionrelative:gooner1\\my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|c:\\users\\adria\\desktop\\g00nerm4lw4re\\gooner1\\gooner1\\my project\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1ABA8A05-1489-407B-8F79-BAAAA951DF09}|Gooner1\\Gooner1.vbproj|solutionrelative:gooner1\\my project\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\My Project\\app.manifest",
+              "RelativeDocumentMoniker": "Gooner1\\My Project\\app.manifest",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\My Project\\app.manifest",
+              "RelativeToolTip": "Gooner1\\My Project\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-08-27T21:50:59.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\Form1.vb",
+              "RelativeDocumentMoniker": "Gooner1\\Form1.vb",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\Form1.vb",
+              "RelativeToolTip": "Gooner1\\Form1.vb",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-27T15:12:41.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\Form1.vb",
+              "RelativeDocumentMoniker": "Gooner1\\Form1.vb",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\Form1.vb [Progettazione]",
+              "RelativeToolTip": "Gooner1\\Form1.vb [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-27T15:12:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowMaker.vb",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\WindowMaker.vb",
+              "RelativeDocumentMoniker": "Gooner1\\WindowMaker.vb",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\WindowMaker.vb",
+              "RelativeToolTip": "Gooner1\\WindowMaker.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-27T14:51:42.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gooner1",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\Gooner1.vbproj",
+              "RelativeDocumentMoniker": "Gooner1\\Gooner1.vbproj",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\g00nerm4lw4re\\Gooner1\\Gooner1\\Gooner1.vbproj",
+              "RelativeToolTip": "Gooner1\\Gooner1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T14:05:35.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
